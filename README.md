@@ -10,7 +10,7 @@ The Residence Program is intended to encourage more longer-term and open-ended r
 At this early stage, the Residence Program is open to various projects and arrangements, so long as they aim to benefit the broader Stacks community. An example of a Residence position might look something like a Governance Researcher-in-Residence who explores and experiments with different voting mechanisms with the end goal of improving decision-making across the Stacks community.
 
 ## How long is a residency?
-Currently, residencies are set up to accommodate 6 month–1 year terms. However, depending on the success of a Resident's work, they may be able to return and renew their terms for 2+ years.
+Currently, residencies are set up to accommodate 6 month–1 year terms. However, depending on the success of a Resident's work, they may be able to return and renew their term for 2+ additional years.
 
 ## How does the Foundation work with Residents?
 The Foundation team, in collaboration with the Stacks community, will work closely with Residents to set initial research milestones and outcomes, but will eventually trust Residents to own and lead their own projects. Ultimately, Residents are responsible for delivering value to the community; they are expected to work "in the open" as much as possible and to communicate and update the community on their progress often.
