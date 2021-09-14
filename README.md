@@ -30,7 +30,7 @@ The application and nominations process for the Residence Program is an open and
 Those interested in becoming Residents themselves may submit an application by [opening an issue here](https://github.com/stacksgov/residence-program/issues/new/choose). (Please use the application template provided and take care not to exceed the word limits for each prompt.) Once you've submitted an application, we encourage you to share your application with other community members to solicit feedback and support.
 
 ## Nominating Residents
-Those interested in nominating other individuals to become Residents may do so by opening an issue and [filling out the nomination form here](https://github.com/stacksgov/residence-program/issues/new/choose). You don't need to know the nominee personally (i.e. it could be a thought leader that you respect) but we do ask that you only submit serious and reasonable nominations only.
+Those interested in nominating other individuals to become Residents may do so by opening an issue and [filling out the nomination form here](https://github.com/stacksgov/residence-program/issues/new/choose). You don't need to know the nominee personally (i.e. it could be a thought leader that you respect) but we do ask that you submit serious and reasonable nominations only.
 
 ## Propose a Resident
 Have an idea for a Resident position but don't know anyone who could apply for or fill it? You can put out a request for a Resident (essentially a job description), share it with the community, and see if anyone is willing to step up by opening an issue and [filling out the request form here](https://github.com/stacksgov/residence-program/issues/new/choose).
