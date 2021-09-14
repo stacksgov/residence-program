@@ -8,7 +8,7 @@ assignees: ''
 
 ---
 
-**What's name/your team's name?**
+**What's your name/your team's name?**
 
 **Best email on which to contact you?**
 

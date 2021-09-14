@@ -1,6 +1,7 @@
 ---
 name: Nominate a Resident
-about: Introduce an excellent candidate for the Stacks Residence Program.
+about: Introduce an excellent individual candidate or team for the Stacks Residence
+  Program.
 title: One SHORT line about who you're nominating and the work that they could do,
   e.g. "Satoshi Nakamoto to work on _____ for Stacks"
 labels: nomination
