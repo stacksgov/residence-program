@@ -9,6 +9,9 @@ The Residence Program is intended to encourage more longer-term and open-ended r
 ## What would a Resident do?
 At this early stage, the Residence Program is open to various projects and arrangements, so long as they aim to benefit the broader Stacks community. An example of a Residence position might look something like a Governance Researcher-in-Residence who explores and experiments with different voting mechanisms with the end goal of improving decision-making across the Stacks community.
 
+## How long is a residency?
+Currently, residencies are set up to accommodate 6 month–1 year terms. However, depending on the success of a Resident's work, they may be able to return and renew their terms for 2+ years.
+
 ## How does the Foundation work with Residents?
 The Foundation team, in collaboration with the Stacks community, will work closely with Residents to set initial research milestones and outcomes, but will eventually trust Residents to own and lead their own projects. Ultimately, Residents are responsible for delivering value to the community; they are expected to work "in the open" as much as possible and to communicate and update the community on their progress often.
 
@@ -21,7 +24,7 @@ Considering that this will be the first iteration of the Residence Program, we a
 Check out the ongoing community discussion of the Residence Program [here](https://forum.stacks.org/t/exploring-a-stacks-residence-program/12252).
 
 # Application & Nominations Process
-The application and nominations process for the Residence Program is an open and collaborative process between the community and the Stacks Foundation. Community members can nominate Residents, request specific Resident positions, and of course, apply to be Residents themselves. For any of these proposals, community members are strongly encouraged to engage with the applications/nominations that they support. This support will be taken into account when the Foundation team is evaluating applications and selecting Residence Program finalists.
+The application and nominations process for the Residence Program is an open and collaborative process between the community and the Stacks Foundation. Community members can nominate Residents, propose specific Resident positions, and of course, apply to be Residents themselves. For any of these proposals, community members are strongly encouraged to engage with the applications/nominations that they support. This support will be taken into account when the Foundation team is evaluating applications and selecting Residence Program finalists.
 
 ## Applying to Be a Resident
 Those interested in becoming Residents themselves may submit an application by opening an issue here. (Please use the application template provided and take care not to exceed the word limits for each prompt.) Once you've submitted an application, we encourage you to share your application with other community members to solicit feedback and support.
@@ -29,5 +32,5 @@ Those interested in becoming Residents themselves may submit an application by o
 ## Nominating Residents
 Those interested in nominating other individuals to become Residents may do so by opening an issue and filling out the 'Nomination' form here. You don't need to know the nominee personally (i.e. it could be a thought leader that you respect) but we do ask that you only submit serious and reasonable nominations only.
 
-## Request a Resident
+## Propose a Resident
 Have an idea for a Resident position but don't know anyone who could apply for or fill it? You can put out a request for a Resident (essentially a job description), share it with the community, and see if anyone is willing to step up by opening an issue and filling out the request form here.
