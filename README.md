@@ -27,10 +27,16 @@ Considering that this will be the first iteration of the Residence Program, we a
 The application and nominations process for the Residence Program is an open and collaborative process between the community and the Stacks Foundation. Community members can nominate Residents, propose specific Resident positions, and of course, apply to be Residents themselves. For any of these proposals, community members are strongly encouraged to engage with the applications/nominations that they support. This support will be taken into account when the Foundation team is evaluating applications and selecting Residence Program finalists.
 
 ## Applying to Be a Resident
-Those interested in becoming Residents themselves may submit an application by [opening an issue here](https://github.com/stacksgov/residence-program/issues/new/choose). (Please use the application template provided and take care not to exceed the word limits for each prompt.) Once you've submitted an application, we encourage you to share your application with other community members to solicit feedback and support.
+Those interested in becoming Residents themselves may submit an application by [opening an issue here](https://github.com/stacksgov/residence-program/issues/new/choose). (Please use the application template provided and take care not to exceed the word limits for each prompt.) You may apply as an individual or in a team. Once you've submitted an application, we encourage you to share your application with other community members to solicit feedback and support. **The selection process will go as follows:
+**
+1. Application Phase: Candidates submit applications or respond to nominations.
+2. Community Evaluation: Candidates solicit feedback and support from community on their applications. Community informally evaluates applications through questions, comments, and general discussion on GitHub.
+4. Semi-Finalist Interviews: Foundation team invites candidates with the most widely-supported or compelling applications to interview.
+5. Finalist Interviews: Foundation selects final candidates to interview with other key stakeholders in the ecosystem.
+6. Finalist Selection: Foundation team selects and announces Residents.
 
 ## Nominating Residents
-Those interested in nominating other individuals to become Residents may do so by opening an issue and [filling out the nomination form here](https://github.com/stacksgov/residence-program/issues/new/choose). You don't need to know the nominee personally (i.e. it could be a thought leader that you respect) but we do ask that you submit serious and reasonable nominations only.
+Those interested in nominating other individuals or teams to become Residents may do so by opening an issue and [filling out the nomination form here](https://github.com/stacksgov/residence-program/issues/new/choose). You don't need to know the nominee personally (i.e. it could be a thought leader that you respect) but we do ask that you submit serious and reasonable nominations only.
 
 ## Propose a Resident
 Have an idea for a Resident position but don't know anyone who could apply for or fill it? You can put out a request for a Resident (essentially a job description), share it with the community, and see if anyone is willing to step up by opening an issue and [filling out the proposal form here](https://github.com/stacksgov/residence-program/issues/new/choose).
