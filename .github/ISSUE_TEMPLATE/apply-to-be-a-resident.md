@@ -8,7 +8,7 @@ assignees: ''
 
 ---
 
-**What name do you go by?**
+**What's name/your team's name?**
 
 **Best email on which to contact you?**
 
@@ -25,4 +25,4 @@ assignees: ''
 - ...
 
 **Appendix**
-[Attach any supplemental materials such as notes, diagrams, preliminary research, or community interactions that could support your application.]
+[Attach any supplemental materials such as previous work/accolades, notes, diagrams, preliminary research, or community interactions that could support your application.]
