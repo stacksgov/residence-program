@@ -21,7 +21,7 @@ The Foundation team will work closely with each Resident to figure out a compens
 ## In Progress
 Considering that this will be the first iteration of the Residence Program, we anticipate there being several areas of the program that will require development along the way. These areas include accountability mechanisms, i.e. how we expect Residents to report to the community, and community engagement processes among other things. We welcome and encourage ongoing feedback from the community on these areas. After all, the ultimate objective of the Residence Program is to support contributions that directly benefit members of the Stacks community.
 
-Check out the ongoing community discussion of the Residence Program [here](https://forum.stacks.org/t/exploring-a-stacks-residence-program/12252).
+## Check out the ongoing community discussion of the Residence Program [here](https://forum.stacks.org/t/exploring-a-stacks-residence-program/12252).
 
 # Application & Nominations Process
 The application and nominations process for the Residence Program is an open and collaborative process between the community and the Stacks Foundation. Community members can nominate Residents, propose specific Resident positions, and of course, apply to be Residents themselves. For any of these proposals, community members are strongly encouraged to engage with the applications/nominations that they support. This support will be taken into account when the Foundation team is evaluating applications and selecting Residence Program finalists.
