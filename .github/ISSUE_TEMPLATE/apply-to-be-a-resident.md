@@ -1,8 +1,8 @@
 ---
 name: Apply to be a Resident
 about: Tell the Stacks community what you'd like to work on.
-title: '[One line describing your role and work as a Resident, e.g. "Entrepreneur-in-Residence
-  exploring Stacking-based business models"]'
+title: One line describing your role and work as a Resident, e.g. "Entrepreneur-in-Residence
+  exploring Stacking-based business models"
 labels: application
 assignees: ''
 
