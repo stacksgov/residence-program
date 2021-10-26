@@ -15,7 +15,7 @@ Currently, residencies are set up to accommodate 6 month–1 year terms. However
 ## How does the Foundation work with Residents?
 The Foundation team, in collaboration with the Stacks community, will work closely with Residents to set initial research milestones and outcomes, but will eventually trust Residents to own and lead their own projects. Ultimately, Residents are responsible for delivering value to the community; they are expected to work "in the open" as much as possible and to communicate and update the community on their progress often.
 
-## How will Residents compensated?
+## How will Residents be compensated?
 The Foundation team will work closely with each Resident to figure out a compensation package that makes sense for their arrangement. This package will be determined based on a combination of factors, including years of work experience, location, number of hours they'll be dedicating to community support, etc. Depending on their work, some Residents may also get access to a certain amount of additional funding through the Stacks Grants Program.
 
 ## In Progress
