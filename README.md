@@ -31,8 +31,8 @@ Those interested in becoming Residents themselves may submit an application by [
 
 **Selection Process:**
 1. Application Phase: Candidates submit applications or respond to nominations.
-2. Community Evaluation: Candidates solicit feedback and support from community on their applications. Community informally evaluates applications through questions, comments, and general discussion on GitHub.
-4. Semi-Finalist Interviews: Foundation team invites candidates with the most widely-supported or compelling applications to interview.
+2. Introductory Interview: Foundation team invites candidates with the most compelling applications to interview.
+3. Community Evaluation: Candidates present to and solicit feedback and support from community on their proposals. Community informally evaluates applications through questions, comments, and general discussion during live presentations and on GitHub.
 5. Finalist Interviews: Foundation selects final candidates to interview with other key stakeholders in the ecosystem.
 6. Finalist Selection: Foundation team selects and announces Residents.
 
