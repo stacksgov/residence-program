@@ -1,28 +1,18 @@
----
-name: Apply to be a Resident
-about: Tell the Stacks community what you'd like to work on.
-title: One line describing your role and work as a Resident, e.g. "Entrepreneur-in-Residence
-  exploring Stacking-based business models"
-labels: application
-assignees: ''
+# Stacks Foundation Residency Program
 
----
+Welcome to the Stacks Foundation Residency Program repository. This program funds subject matter experts for long-term research and development projects within the Stacks ecosystem.
 
-**What's your name/your team's name?**
+## About the Program
 
-**Best email on which to contact you?**
+The Residency Program supports in-depth work on research, tooling, and infrastructure that adds value to multiple Core Engineering Workstreams. Residents often work on projects that require deep exploration and contribute broadly to the Stacks community.
 
-**Personal Statement**
-[Explain in 150 words or less the kind of work you'd like to do and why you think it could advance the ecosystem.]
+## Important Note
 
-**End Product**
-[Describe in 150 words or less the what you plan to contribute to the community by the end of your residency, e.g. a whitepaper or a series of developer tools.]
+- Applications submited through this repo by creating an issue will not be considered.
 
-**Roadmap**
-[Break your project down into a simple list of milestones and include the *approximate* dates by when you plan to complete them.]
-- <Milestone 1>
-- <Milestone 2>
-- ...
+## More Information
 
-**Appendix**
-[Attach any supplemental materials such as previous work/accolades, notes, diagrams, preliminary research, or community interactions that could support your application.]
+- For more information about the Residency program, other grant/bounty opportunities, please visit https://stacks.org/grants.
+- If you would like to be considered for a Stacks Residency (or nominate some else - or suggest a type of SME we should consider for a Residency) please contact us at programs@stacks.org
+
+We're excited to see how your expertise can contribute to the Stacks ecosystem!
